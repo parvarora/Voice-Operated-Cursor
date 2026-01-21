@@ -104,7 +104,7 @@ MongoDB Checkpointing
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/voice-agentic-coding-assistant.git
+git clone https://github.com/parvarora/voice-agentic-coding-assistant.git
 cd voice-agentic-coding-assistant
 ```
 
